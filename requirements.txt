@@ -2,9 +2,7 @@ Flask
 
 
 # Machine Learning & Data Science
-
-# Machine Learning & Data Science
 scikit-learn
-pandas
+
 numpy
 
