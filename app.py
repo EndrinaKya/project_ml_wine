@@ -7,9 +7,7 @@ import os
 
 app = Flask(__name__)
 
-# ----------------------------
-# Load Naive Bayes Model
-# ----------------------------
+
 nb_model_path = "naive_wine_model.pkl"
 features_path = "feature_columns.pkl"
 nb_acc_path = "akurasi_wine.pkl"
